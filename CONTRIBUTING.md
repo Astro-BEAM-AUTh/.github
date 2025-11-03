@@ -13,7 +13,7 @@ Please follow these guidelines when contributing to any repository under this or
   - [2. Get the code](#2-get-the-code)
   - [3. Set up the development environment](#3-set-up-the-development-environment)
   - [4. Make your changes](#4-make-your-changes)
-  - [5. Run the tests](#5-run-the-tests)
+  - [5. Run the tests (if applicable)](#5-run-the-tests-if-applicable)
   - [6. Commit and push your changes](#6-commit-and-push-your-changes)
   - [7. Create a Pull Request](#7-create-a-pull-request)
 - [Style guide](#style-guide)
@@ -22,11 +22,11 @@ Please follow these guidelines when contributing to any repository under this or
 
 ## Where do I go from here?
 
-If you've noticed a bug or have a feature request, [make one](https://github.com/dyka3773/db-drift/issues/new)! It's generally best if you get confirmation of your bug or approval for your feature request this way before starting to code.
+If you've noticed a bug or have a feature request, create one! It's generally best if you get confirmation of your bug or approval for your feature request this way before starting to code.
 
 ### 1. Fork & create a branch
 
-If this is something you think you can fix, then [fork `db-drift`](https://github.com/dyka3773/db-drift/fork) and create a branch with a descriptive name.
+If this is something you think you can fix, then fork this repo and create a branch with a descriptive name.
 
 A good branch name would be (where issue #123 is the ticket you're working on):
 
@@ -37,8 +37,8 @@ git checkout -b 123-add-a-feature
 ### 2. Get the code
 
 ```bash
-git clone https://github.com/your-username/db-drift.git
-cd db-drift
+git clone https://github.com/Astro-BEAM-AUTh/<repository-name>.git
+cd <repository-name>
 ```
 
 ### 3. Set up the development environment
@@ -55,7 +55,7 @@ This will install all the necessary dependencies for development, including the 
 
 Make your changes in the codebase. Make sure to add tests for your changes if applicable. Follow the existing code style and conventions.
 
-### 5. Run the tests
+### 5. Run the tests (if applicable)
 
 To run the tests, run:
 
