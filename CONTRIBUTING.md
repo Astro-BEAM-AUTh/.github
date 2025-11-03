@@ -22,7 +22,8 @@ Please follow these guidelines when contributing to any repository under this or
 
 ## Where do I go from here?
 
-If you've noticed a bug or have a feature request, create one! It's generally best if you get confirmation of your bug or approval for your feature request this way before starting to code.
+If you've noticed a bug or have a feature request, [create an issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/creating-an-issue)! 
+It's generally best if you get confirmation of your bug or approval for your feature request this way before starting to code.
 
 ### 1. Fork & create a branch
 
