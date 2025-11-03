@@ -17,17 +17,31 @@ Project ASTRO is splitted into five subsystems, in teams of people working on th
 
 ## Contributors
 Active Members:
-George Kesoglidis,
-Panagiotis Petridis,
-Asteris Poulios,
-Andreas Sapountzoglou,
-Christos Alexopoulos
+
+Software:
+George Kesoglidis         (Software Lead)
+Panagiotis Petridis       (Software/ Data Analysis)
+Christos Alexopoulos      (Software/ Data Analysis)
+Dimitris Pakakis          (Software/ Data Analysis)
+Michail Letsios           (Software/ Website)
+Miltiadis Vardakis        (Software/ Website)
+Andreas Sapountzoglou     (Software/ Network)
+Nikos Tsormpatsoglou      (Software/ Database)
+Hercules Konsoulas        (Software/ Backend)
+
+Margarita Fylaktaki       (Robotics Lead)
+Jo Gisdaki                (Robotics)
+Nikos Ververidis          (Robotics)
+Stratos Koursoumpas       (Robotics)
+
+Konstantinos Karathanas   (Science Lead)
+Lefteris Voulimiotis      (Science)
 
 Past Members:
-Ioannis Liodis,
-Prodromos Polychroniadis,
-Nikiforos Galanis,
-Michaela Ververi,
-Konstantinos Tryfonidis,
-Panagiota Batsela,
-Jo Gisdaki
+Ioannis Liodis,           (Software Lead)
+Prodromos Polychroniadis, (Software/ Data Analysis)
+Nikiforos Galanis,        (Software/ Data Analysis)
+Michaela Ververi,         (Software/ Data Analysis)
+Panagiota Batsela,        (Software/ Data Analysis)
+Konstantinos Tryfonidis,  (Software/ Database)
+Asteris Poulios           (Software/ SDR)
